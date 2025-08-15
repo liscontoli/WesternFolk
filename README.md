@@ -8,25 +8,25 @@ A 3D action-adventure prototype set in a stylized Western world. Choose **cowboy
 
 ## 🎥 Demos
 <p align="center">
-  <a href="https://youtube.com/watch?v=w64vDeA4ToM">
+  <a href="https://youtu.be/w64vDeA4ToM?si=2GxfKY4fl30F4YZy">
     <img src="https://img.youtube.com/vi/w64vDeA4ToM/maxresdefault.jpg" width="500">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/watch?v=VPoyGa4p2Z0">
+  <a href="https://youtu.be/VPoyGa4p2Z0?si=VdX4zudI5z_O5iKz">
     <img src="https://img.youtube.com/vi/VPoyGa4p2Z0/maxresdefault.jpg" width="500">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/watch?v=e93H2yKdAvE">
+  <a href="https://youtu.be/e93H2yKdAvE?si=eFkkFUug4K1OvPSr">
     <img src="https://img.youtube.com/vi/e93H2yKdAvE/maxresdefault.jpg" width="500">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/watch?v=PofJVJNDFYY">
+  <a href="https://youtu.be/PofJVJNDFYY?si=KYZJG6wuAMr27ClA">
     <img src="https://img.youtube.com/vi/PofJVJNDFYY/maxresdefault.jpg" width="500">
   </a>
 </p>
@@ -59,7 +59,12 @@ A 3D action-adventure prototype set in a stylized Western world. Choose **cowboy
 
 ## ✨ Features
 - **Playable heroes:** Pick **cowboy** or **cowgirl**  
-- **Four-mission arc:** Train wreck (snakes & scorpions), town (bandits), saloon (bandits), plus a WIP fourth mission  
+- **Four-mission arc:**
+Wrecked Train – Clear out rattlesnakes and scorpions around the derailed train.
+Town – Eliminate waves of armed bandits roaming the streets.
+Saloon – Face off against bandits in close quarters inside the saloon.
+Train Station/Town – Final showdown blending long-range and close combat in the station and surrounding town.
+
 - **Health & UI:** Enemy health bars; player health percentage shown in HUD  
 - **Combat loop:** Ammo counts, reloading, and ammo drops from barrels; aid kits from breakable boxes  
 - **Economy:** Collect **gold coins** to buy weapons; choose weapon pre-mission  
