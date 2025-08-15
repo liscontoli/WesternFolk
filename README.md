@@ -6,30 +6,32 @@
 
 A 3D action-adventure prototype set in a stylized Western world. Choose **cowboy or cowgirl**, pick a mission, and clear out rattlesnakes, scorpions, and bandits with tight FPS-style combat and exploration. Built in **Unity** with low-poly POLYGON Western assets.
 
-## 🎥 Demos
+##  Demos
+
 <p align="center">
-  <a href="https://youtu.be/w64vDeA4ToM?si=2GxfKY4fl30F4YZy">
-    <img src="https://img.youtube.com/vi/w64vDeA4ToM/maxresdefault.jpg" width="500">
+  <a href="https://youtu.be/w64vDeA4ToM">
+    <img src="https://img.youtube.com/vi/w64vDeA4ToM/hqdefault.jpg" width="500" alt="Demo 1 – Western Folk">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/VPoyGa4p2Z0?si=VdX4zudI5z_O5iKz">
-    <img src="https://img.youtube.com/vi/VPoyGa4p2Z0/maxresdefault.jpg" width="500">
+  <a href="https://youtu.be/VPoyGa4p2Z0">
+    <img src="https://img.youtube.com/vi/VPoyGa4p2Z0/hqdefault.jpg" width="500" alt="Demo 2 – Western Folk">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/e93H2yKdAvE?si=eFkkFUug4K1OvPSr">
-    <img src="https://img.youtube.com/vi/e93H2yKdAvE/maxresdefault.jpg" width="500">
+  <a href="https://youtu.be/e93H2yKdAvE">
+    <img src="https://img.youtube.com/vi/e93H2yKdAvE/hqdefault.jpg" width="500" alt="Demo 3 – Western Folk">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/PofJVJNDFYY?si=KYZJG6wuAMr27ClA">
-    <img src="https://img.youtube.com/vi/PofJVJNDFYY/maxresdefault.jpg" width="500">
+  <a href="https://youtu.be/PofJVJNDFYY">
+    <img src="https://img.youtube.com/vi/PofJVJNDFYY/hqdefault.jpg" width="500" alt="Demo 4 – Western Folk">
   </a>
 </p>
+
 
 ## 📸 Screenshots
 <p align="center">
@@ -51,7 +53,15 @@ A 3D action-adventure prototype set in a stylized Western world. Choose **cowboy
   <img src="Screenshots/WF_CowboyCharacter.png" alt="Cowboy Character" width="500">
 </p>
 <p align="center">
+  <img src="Screenshots/WF_TrainStation.png" alt="Train Station CB" width="500">
+</p>
+
+<p align="center">
   <img src="Screenshots/WF_CowgirlCharacter.png" alt="Cowgirl Character" width="500">
+</p>
+
+<p align="center">
+  <img src="Screenshots/WF_Saloon.png" alt="Saloon CG" width="500">
 </p>
 <p align="center">
   <img src="Screenshots/WF_QuitScreen.png" alt="Quit Screen" width="500">
