@@ -33,7 +33,7 @@ A 3D action-adventure prototype set in a stylized Western world. Choose **cowboy
 </p>
 
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="Screenshots/WF_MainMenuScreen.png" alt="Main Menu" width="500">
 </p>
@@ -67,7 +67,7 @@ A 3D action-adventure prototype set in a stylized Western world. Choose **cowboy
   <img src="Screenshots/WF_QuitScreen.png" alt="Quit Screen" width="500">
 </p>
 
-## ✨ Features
+## Features
 - **Playable heroes:** Pick **cowboy** or **cowgirl**  
 - **Four-mission arc:**
 Wrecked Train – Clear out rattlesnakes and scorpions around the derailed train.
@@ -86,15 +86,15 @@ Train Station/Town – Final showdown blending long-range and close combat in th
 2. Move, aim, and shoot to clear all enemies. Pick up ammo and aid kits from environmental props  
 3. If your health hits **0**, it’s game over; beat all enemies to advance
 
-## 📦 Tech Stack
+## Tech Stack
 - **Engine:** Unity (desktop dev, targeting mobile later)  
 - **Art:** Synty Studios – POLYGON Western Pack (low-poly), Figma
 - **Audio:** Royalty-free Western BGM + SFX (gunfire, reload, UI)  
 
-## 🛠 Requirements
+## Requirements
 - Unity 2023.1.15f1
 
-## 🚀 Getting Started (Dev)
+## Getting Started (Dev)
 ```bash
 # Clone
 git clone https://github.com/liscontoli/WesternFolk.git
